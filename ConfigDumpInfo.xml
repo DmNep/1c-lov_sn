@@ -2,8 +2,8 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
 		<Metadata name="Catalog.Тест_Адреса" id="2eac28af-c11f-4350-a15c-9ab0d5a6f390" configVersion="e94ee2737865684ba4e0616f4015ea2f00000000"/>
-		<Metadata name="CommonModule.ЯдроАнализатор" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997" configVersion="3e1a0e14b0f9594eb2cb492e4d9f1e9900000000"/>
-		<Metadata name="CommonModule.ЯдроАнализатор.Module" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997.0" configVersion="c7c8c8cc19d91945a63b23ddc0c49dbe00000000"/>
+		<Metadata name="CommonModule.ЯдроАнализатор" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997" configVersion="c31786f27ee7b84a98e7a08ea81a883100000000"/>
+		<Metadata name="CommonModule.ЯдроАнализатор.Module" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997.0" configVersion="729dd0012f12724eacdbd35ecd3255ec00000000"/>
 		<Metadata name="CommonModule.ЯдроЗагрузчик" id="1f276ad3-da0e-4f8a-83ae-aff3f3966d5f" configVersion="0bf2e7667a2220468fcbcbf4000badc600000000"/>
 		<Metadata name="CommonModule.ЯдроЗагрузчик.Module" id="1f276ad3-da0e-4f8a-83ae-aff3f3966d5f.0" configVersion="77f318f75443aa4c9036ca424d9da69b00000000"/>
 		<Metadata name="CommonModule.ЯдроСканер" id="16944098-195a-49a3-92d2-8a34ed2a43c1" configVersion="2b49db0d7b17a34da094f7b9b31b42ef00000000"/>
