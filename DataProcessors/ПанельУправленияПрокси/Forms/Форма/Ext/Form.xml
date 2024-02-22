@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<ChildItems>
+		<Table name="ПроксиСервера" id="1">
+			<AutoInsertNewRow>true</AutoInsertNewRow>
+			<EnableStartDrag>true</EnableStartDrag>
+			<EnableDrag>true</EnableDrag>
+			<DataPath>Объект.ПроксиСервера</DataPath>
+			<RowFilter xsi:nil="true"/>
+			<ContextMenu name="ПроксиСервераКонтекстноеМеню" id="2"/>
+			<AutoCommandBar name="ПроксиСервераКоманднаяПанель" id="3"/>
+			<ExtendedTooltip name="ПроксиСервераРасширеннаяПодсказка" id="4"/>
+			<SearchStringAddition name="ПроксиСервераСтрокаПоиска" id="5">
+				<AdditionSource>
+					<Item>ПроксиСервера</Item>
+					<Type>SearchStringRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="ПроксиСервераСтрокаПоискаКонтекстноеМеню" id="6"/>
+				<ExtendedTooltip name="ПроксиСервераСтрокаПоискаРасширеннаяПодсказка" id="7"/>
+			</SearchStringAddition>
+			<ViewStatusAddition name="ПроксиСервераСостояниеПросмотра" id="8">
+				<AdditionSource>
+					<Item>ПроксиСервера</Item>
+					<Type>ViewStatusRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="ПроксиСервераСостояниеПросмотраКонтекстноеМеню" id="9"/>
+				<ExtendedTooltip name="ПроксиСервераСостояниеПросмотраРасширеннаяПодсказка" id="10"/>
+			</ViewStatusAddition>
+			<SearchControlAddition name="ПроксиСервераУправлениеПоиском" id="11">
+				<AdditionSource>
+					<Item>ПроксиСервера</Item>
+					<Type>SearchControl</Type>
+				</AdditionSource>
+				<ContextMenu name="ПроксиСервераУправлениеПоискомКонтекстноеМеню" id="12"/>
+				<ExtendedTooltip name="ПроксиСервераУправлениеПоискомРасширеннаяПодсказка" id="13"/>
+			</SearchControlAddition>
+			<ChildItems>
+				<LabelField name="ПроксиСервераНомерСтроки" id="14">
+					<DataPath>Объект.ПроксиСервера.LineNumber</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ПроксиСервераНомерСтрокиКонтекстноеМеню" id="15"/>
+					<ExtendedTooltip name="ПроксиСервераНомерСтрокиРасширеннаяПодсказка" id="16"/>
+				</LabelField>
+				<InputField name="ПроксиСервераАдрес" id="17">
+					<DataPath>Объект.ПроксиСервера.Адрес</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ПроксиСервераАдресКонтекстноеМеню" id="18"/>
+					<ExtendedTooltip name="ПроксиСервераАдресРасширеннаяПодсказка" id="19"/>
+				</InputField>
+				<InputField name="ПроксиСервераПорт" id="20">
+					<DataPath>Объект.ПроксиСервера.Порт</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ПроксиСервераПортКонтекстноеМеню" id="21"/>
+					<ExtendedTooltip name="ПроксиСервераПортРасширеннаяПодсказка" id="22"/>
+				</InputField>
+				<CheckBoxField name="ПроксиСервераРаботает" id="23">
+					<DataPath>Объект.ПроксиСервера.Работает</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<CheckBoxType>Auto</CheckBoxType>
+					<ContextMenu name="ПроксиСервераРаботаетКонтекстноеМеню" id="24"/>
+					<ExtendedTooltip name="ПроксиСервераРаботаетРасширеннаяПодсказка" id="25"/>
+				</CheckBoxField>
+				<InputField name="ПроксиСервераКоличествоЗапросов" id="26">
+					<DataPath>Объект.ПроксиСервера.КоличествоЗапросов</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ПроксиСервераКоличествоЗапросовКонтекстноеМеню" id="27"/>
+					<ExtendedTooltip name="ПроксиСервераКоличествоЗапросовРасширеннаяПодсказка" id="28"/>
+				</InputField>
+			</ChildItems>
+		</Table>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:DataProcessorObject.ПанельУправленияПрокси</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+		</Attribute>
+	</Attributes>
+</Form>

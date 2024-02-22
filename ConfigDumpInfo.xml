@@ -2,16 +2,25 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
 		<Metadata name="Catalog.Тест_Адреса" id="2eac28af-c11f-4350-a15c-9ab0d5a6f390" configVersion="e94ee2737865684ba4e0616f4015ea2f00000000"/>
-		<Metadata name="CommonModule.ЯдроАнализатор" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997" configVersion="c31786f27ee7b84a98e7a08ea81a883100000000"/>
-		<Metadata name="CommonModule.ЯдроАнализатор.Module" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997.0" configVersion="729dd0012f12724eacdbd35ecd3255ec00000000"/>
+		<Metadata name="CommonModule.ЯдроАнализатор" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997" configVersion="06331ae567fdb64789060ab34e7dbb9900000000"/>
+		<Metadata name="CommonModule.ЯдроАнализатор.Module" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997.0" configVersion="0795dc636db0314fa6cacfc1fd2ab5f300000000"/>
 		<Metadata name="CommonModule.ЯдроЗагрузчик" id="1f276ad3-da0e-4f8a-83ae-aff3f3966d5f" configVersion="0bf2e7667a2220468fcbcbf4000badc600000000"/>
 		<Metadata name="CommonModule.ЯдроЗагрузчик.Module" id="1f276ad3-da0e-4f8a-83ae-aff3f3966d5f.0" configVersion="77f318f75443aa4c9036ca424d9da69b00000000"/>
 		<Metadata name="CommonModule.ЯдроСканер" id="16944098-195a-49a3-92d2-8a34ed2a43c1" configVersion="2b49db0d7b17a34da094f7b9b31b42ef00000000"/>
 		<Metadata name="CommonModule.ЯдроСканер.Module" id="16944098-195a-49a3-92d2-8a34ed2a43c1.0" configVersion="cde37923142e5f4788ddf627b5d692a700000000"/>
-		<Metadata name="Configuration.Crowler" id="ef5f1d51-1e6f-475d-9abd-e8d38ddf099e" configVersion="81a268444169604f8f3ee6957232316700000000"/>
-		<Metadata name="DataProcessor.ПанельУправления" id="95c4d917-182b-4af5-bd17-d72f2842d12b" configVersion="7750b1bf3c4c8e4cbb328d2a916b713e00000000"/>
-		<Metadata name="DataProcessor.ПанельУправления.Form.Форма" id="c534a709-00b7-45a1-869e-90c80086c116" configVersion="99eb907cb568e047b59ceb6191f8011400000000"/>
-		<Metadata name="DataProcessor.ПанельУправления.Form.Форма.Form" id="c534a709-00b7-45a1-869e-90c80086c116.0" configVersion="be2879c0d1fdaf48b1a1b3aca5e0caf200000000"/>
+		<Metadata name="Configuration.Crowler" id="ef5f1d51-1e6f-475d-9abd-e8d38ddf099e" configVersion="2ce27924280f7542b968404928dbe0b700000000"/>
+		<Metadata name="DataProcessor.ПанельУправленияГлавная" id="95c4d917-182b-4af5-bd17-d72f2842d12b" configVersion="2568e9b109748340bf611a162287c1bf00000000"/>
+		<Metadata name="DataProcessor.ПанельУправленияГлавная.Form.Форма" id="c534a709-00b7-45a1-869e-90c80086c116" configVersion="99eb907cb568e047b59ceb6191f8011400000000"/>
+		<Metadata name="DataProcessor.ПанельУправленияГлавная.Form.Форма.Form" id="c534a709-00b7-45a1-869e-90c80086c116.0" configVersion="be2879c0d1fdaf48b1a1b3aca5e0caf200000000"/>
+		<Metadata name="DataProcessor.ПанельУправленияПрокси" id="0f360d33-b83f-479b-8c51-a8d18e33c579" configVersion="d80d6dbd4d059b46a0745aafea90e69800000000">
+			<Metadata name="DataProcessor.ПанельУправленияПрокси.TabularSection.ПроксиСервера.Attribute.КоличествоЗапросов" id="1c2af6a5-a213-4bc7-a5f0-cd5bd75a3025"/>
+			<Metadata name="DataProcessor.ПанельУправленияПрокси.TabularSection.ПроксиСервера.Attribute.Адрес" id="1eca22bb-2a86-453b-b0a5-ba50e0307cba"/>
+			<Metadata name="DataProcessor.ПанельУправленияПрокси.TabularSection.ПроксиСервера.Attribute.Работает" id="3597aad8-3033-435d-995b-34cd3ab9676c"/>
+			<Metadata name="DataProcessor.ПанельУправленияПрокси.TabularSection.ПроксиСервера" id="66b3143c-19b3-40d6-a32b-fdd0cde20f12"/>
+			<Metadata name="DataProcessor.ПанельУправленияПрокси.TabularSection.ПроксиСервера.Attribute.Порт" id="e10c9f60-721d-48ed-992a-88deb68513f4"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ПанельУправленияПрокси.Form.Форма" id="d3864e1e-664b-4cf7-9323-d9181609817e" configVersion="5e036f6636dd79468498e731e34bf48200000000"/>
+		<Metadata name="DataProcessor.ПанельУправленияПрокси.Form.Форма.Form" id="d3864e1e-664b-4cf7-9323-d9181609817e.0" configVersion="d1fb0ce085102e488b24e9775b7029a300000000"/>
 		<Metadata name="InformationRegister.БуферАдресов" id="d3d09f9b-78a3-4e35-a58a-0b61231a16c6" configVersion="f86bd49343b2604ea6842553dcc0e01000000000">
 			<Metadata name="InformationRegister.БуферАдресов.Attribute.Дата" id="0234ee03-09c4-4d37-bb7a-08f14ab28373"/>
 			<Metadata name="InformationRegister.БуферАдресов.Attribute.Очередь" id="aae8477f-5fac-4601-ae7c-592bebb68f4f"/>
@@ -24,6 +33,12 @@
 		<Metadata name="InformationRegister.ХешЗагрузок" id="b9570aa0-9e92-46bc-81cd-725fba16fd4c" configVersion="bd2f664a5d1569459fbb5546fba5e73800000000">
 			<Metadata name="InformationRegister.ХешЗагрузок.Dimension.Хеш" id="32bfeaa7-c85f-4547-a249-b0975b46da70"/>
 		</Metadata>
+		<Metadata name="InformationRegister.ХранилищеПрокси" id="050b7fcc-85e5-4418-b49d-3f4b7662d57a" configVersion="d4a51a119cae5540a5fb86d5ee52437b00000000">
+			<Metadata name="InformationRegister.ХранилищеПрокси.Attribute.КоличествоЗапросов" id="2e49dd48-1f97-47ff-8e20-b30f81b64c95"/>
+			<Metadata name="InformationRegister.ХранилищеПрокси.Dimension.Порт" id="55b42495-31bb-4999-adfc-403c4aa1f9b6"/>
+			<Metadata name="InformationRegister.ХранилищеПрокси.Attribute.Работает" id="704419f6-1a4f-4e83-ab11-d7b23ccdc1a8"/>
+			<Metadata name="InformationRegister.ХранилищеПрокси.Dimension.Адрес" id="c8a79a09-8e5c-4b9f-868b-46a9b0e02e5b"/>
+		</Metadata>
 		<Metadata name="InformationRegister.ХранилищеФайлов" id="7342b307-c748-42ee-a079-ae208a9a524d" configVersion="d110c8ffbb50fc468f1d39f062fcf42600000000">
 			<Metadata name="InformationRegister.ХранилищеФайлов.Dimension.Файл" id="339d2228-983f-4858-afad-bd97a47379fd"/>
 			<Metadata name="InformationRegister.ХранилищеФайлов.Attribute.ДатаЗагрузки" id="83237435-9e96-4277-904d-33c7e616e719"/>
@@ -34,7 +49,7 @@
 		<Metadata name="Subsystem.МодульУправления" id="fb3b4832-d737-4319-8012-461a2e0dc28a" configVersion="2c47ae63f91d8a45aed70019c0b65cb900000000"/>
 		<Metadata name="Subsystem.Оповещение" id="dfeda48a-bb9f-456a-8698-24a4ab992b10" configVersion="95ad6c69b9d8aa4b8ad85c7d7e40fa3d00000000"/>
 		<Metadata name="Subsystem.Отчеты" id="bf2c805c-fd01-4f3d-8873-6d67d696d1e8" configVersion="d76dd62a9cde4b43b8ee38be8fa1c79800000000"/>
-		<Metadata name="Subsystem.ПроксиМодуль" id="151a09e2-2e08-42a7-a0aa-0bfd1644dd6d" configVersion="eb1b21d06c2de544a5dfe03d5ecacf3000000000"/>
+		<Metadata name="Subsystem.ПроксиМодуль" id="151a09e2-2e08-42a7-a0aa-0bfd1644dd6d" configVersion="19e8ff626f96d24bad671bf8a6d9af6d00000000"/>
 		<Metadata name="Subsystem.Расширения" id="ffd796f4-aa42-429a-a293-bb12ba18e12b" configVersion="381baaf78d0b6e4c8dc7e444e331e76900000000"/>
 		<Metadata name="Subsystem.Хранилище" id="2a452557-8bd8-48a3-849c-20249cd41fbf" configVersion="b88b2f9a9f091e48aed0de6d326f109200000000"/>
 		<Metadata name="Subsystem.Ядро" id="5d2610c6-03f1-44d9-aca3-33c585ebf3dd" configVersion="87a154b3909d914081ecb33f8b4d99ed00000000"/>

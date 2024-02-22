@@ -241,10 +241,12 @@
 			<CommonModule>ЯдроЗагрузчик</CommonModule>
 			<CommonModule>ЯдроСканер</CommonModule>
 			<Catalog>Тест_Адреса</Catalog>
-			<DataProcessor>ПанельУправления</DataProcessor>
+			<DataProcessor>ПанельУправленияГлавная</DataProcessor>
+			<DataProcessor>ПанельУправленияПрокси</DataProcessor>
 			<InformationRegister>БуферАдресов</InformationRegister>
 			<InformationRegister>БуферСсылок</InformationRegister>
 			<InformationRegister>ХешЗагрузок</InformationRegister>
+			<InformationRegister>ХранилищеПрокси</InformationRegister>
 			<InformationRegister>ХранилищеФайлов</InformationRegister>
 		</ChildObjects>
 	</Configuration>
