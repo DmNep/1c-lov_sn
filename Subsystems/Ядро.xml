@@ -21,6 +21,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ХешЗагрузок</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ХранилищеФайлов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Тест_Адреса</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ДанныеАвторизации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ХранилищеАдресов</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

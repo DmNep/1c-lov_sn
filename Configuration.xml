@@ -248,6 +248,8 @@
 			<InformationRegister>ХешЗагрузок</InformationRegister>
 			<InformationRegister>ХранилищеПрокси</InformationRegister>
 			<InformationRegister>ХранилищеФайлов</InformationRegister>
+			<InformationRegister>ДанныеАвторизации</InformationRegister>
+			<InformationRegister>ХранилищеАдресов</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
