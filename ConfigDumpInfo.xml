@@ -8,7 +8,7 @@
 		<Metadata name="CommonModule.ЯдроЗагрузчик.Module" id="1f276ad3-da0e-4f8a-83ae-aff3f3966d5f.0" configVersion="77f318f75443aa4c9036ca424d9da69b00000000"/>
 		<Metadata name="CommonModule.ЯдроСканер" id="16944098-195a-49a3-92d2-8a34ed2a43c1" configVersion="2b49db0d7b17a34da094f7b9b31b42ef00000000"/>
 		<Metadata name="CommonModule.ЯдроСканер.Module" id="16944098-195a-49a3-92d2-8a34ed2a43c1.0" configVersion="cde37923142e5f4788ddf627b5d692a700000000"/>
-		<Metadata name="Configuration.Crowler" id="ef5f1d51-1e6f-475d-9abd-e8d38ddf099e" configVersion="98a8fb11c5276842a739eb71b535fb9200000000"/>
+		<Metadata name="Configuration.Crowler" id="ef5f1d51-1e6f-475d-9abd-e8d38ddf099e" configVersion="74d8a3b0c3fcb14caf1d1ccd8dbe42ab00000000"/>
 		<Metadata name="DataProcessor.ПанельУправленияГлавная" id="95c4d917-182b-4af5-bd17-d72f2842d12b" configVersion="2568e9b109748340bf611a162287c1bf00000000"/>
 		<Metadata name="DataProcessor.ПанельУправленияГлавная.Form.Форма" id="c534a709-00b7-45a1-869e-90c80086c116" configVersion="99eb907cb568e047b59ceb6191f8011400000000"/>
 		<Metadata name="DataProcessor.ПанельУправленияГлавная.Form.Форма.Form" id="c534a709-00b7-45a1-869e-90c80086c116.0" configVersion="be2879c0d1fdaf48b1a1b3aca5e0caf200000000"/>

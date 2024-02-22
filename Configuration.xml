@@ -245,11 +245,11 @@
 			<DataProcessor>ПанельУправленияПрокси</DataProcessor>
 			<InformationRegister>БуферАдресов</InformationRegister>
 			<InformationRegister>БуферСсылок</InformationRegister>
+			<InformationRegister>ДанныеАвторизации</InformationRegister>
 			<InformationRegister>ХешЗагрузок</InformationRegister>
+			<InformationRegister>ХранилищеАдресов</InformationRegister>
 			<InformationRegister>ХранилищеПрокси</InformationRegister>
 			<InformationRegister>ХранилищеФайлов</InformationRegister>
-			<InformationRegister>ДанныеАвторизации</InformationRegister>
-			<InformationRegister>ХранилищеАдресов</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
